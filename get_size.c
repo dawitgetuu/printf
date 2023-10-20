@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * by getting_size - Calculate the size to check the argument
- * $format: Formatted string in which to print the arguments
- * @i: List of arguments to be printed in the project.
+ * get_size - Calculates the size to cast the argument
+ * @format: Formatted string in which to print the arguments
+ * @i: List of arguments to be printed.
  *
  * Return: Precision.
  */
